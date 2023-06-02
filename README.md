@@ -18,6 +18,12 @@
 
 ## 🙊 Meaningless Stats
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 |                                                        🏠 Personal Account                                                        |                                                          💼 Work Account                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=ranajaydas&theme=gruvbox-duo&mode=weekly)](https://github.com/ranajaydas) | [![GitHub Streak](https://streak-stats.demolab.com?user=ranajayiag&theme=gruvbox-duo&mode=weekly)](https://github.com/ranajayiag) |
