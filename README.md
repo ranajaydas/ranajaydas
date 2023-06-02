@@ -1,6 +1,6 @@
 ## 👋🏾 Hi, I'm Ranajay!
 
-- 🤓 I'm a Fullstack Developer and Author from Singapore 🇸🇬
+- 🤓 I'm a Fullstack Developer and Author from Singapore
 - ⌨️ I've been building software since 2008
 - 📖 When I'm not coding I enjoy writing and storytelling.
 - ✍🏾 I published my first novel, [Aoirei](https://www.goodreads.com/book/show/53350484-aoirei), in 2018.
@@ -17,12 +17,6 @@
 - Django
 
 ## 🙊 Meaningless Stats
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 |                                                        🏠 Personal Account                                                        |                                                          💼 Work Account                                                          |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
