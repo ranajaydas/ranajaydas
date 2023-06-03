@@ -7,7 +7,7 @@
 - 🚀 You can check out my latest work on [my website](https://ranajay.dev)
 
 ## 💻️ Stuff I like to use
-- Frontend: [![My Skills](https://skillicons.dev/icons?i=ts,react,vite,html,css,tailwind,materialui)](https://skillicons.dev)
+- Frontend: [![My Skills](https://skillicons.dev/icons?i=ts,react,vite,nextjs,html,css,tailwind,materialui)](https://skillicons.dev)
 - Backend : [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,jest,py,fastapi,django,postgres)](https://skillicons.dev)
 
 
