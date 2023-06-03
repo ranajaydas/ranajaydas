@@ -6,15 +6,10 @@
 - ✍🏾 I published my first novel, [Aoirei](https://www.goodreads.com/book/show/53350484-aoirei), in 2018
 - 🚀 You can check out my latest work on [my website](https://ranajay.dev)
 
-## 💻️ I typically use
+## 💻️ Stuff I like to use
+- Frontend ⏩: [![My Skills](https://skillicons.dev/icons?i=ts,react,vite,html,css,tailwind,materialui)](https://skillicons.dev)
+- Backend  ⏪: [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,nextjs,jest,py,fastapi,django,postgres)](https://skillicons.dev)
 
-- TypeScript
-- Python 🐍
-- Node.js
-- Next.js
-- NestJS
-- Tailwind
-- Django
 
 ## 🙊 Meaningless Stats
 
