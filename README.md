@@ -3,7 +3,7 @@
 - 🤓 I'm a Fullstack Developer and Author from Singapore
 - ⌨️ I've been building software since 2008
 - 📖 When I'm not coding, I enjoy traveling, writing and storytelling
-- ✍🏾 I published my first novel, [Aoirei](https://www.goodreads.com/book/show/53350484-aoirei), in 2018
+- ✍🏾 I published my debut novel, [Aoirei](https://www.goodreads.com/book/show/53350484-aoirei), in 2018
 - 🚀 You can check out my latest work on [my website](https://ranajay.dev)
 
 ## 💻️ Stuff I like to use
